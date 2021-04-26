@@ -8,7 +8,7 @@ I've been studying and developing ideas for over 3 years! I've been through some
 
 Programming languages:
 
--  🚀 ReactJS/React Native
--  🔥 Nodejs
--  👨‍💻 JavaScript/TypeScript
--  🤒 PHP
+-  🚀 JavaScript/TypeScript
+-  🔥 Nodejs/Mysql
+-  👨‍💻 VueJS/React
+-  🤒 PHP/Laravel/Python
