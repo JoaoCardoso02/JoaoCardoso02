@@ -4,7 +4,7 @@ I'm João, based on Brazil.
 
 #### Biography
 
-- 🏢 I'm actually working at [Warren](https://warren.com.br/) 
+- 🏢 I'm currently working at [Warren](https://warren.com.br/) 
 - 👨🏻‍🔬 A TypeScript lover
 - 🌱 MongoDB is, for me, the best database
 - 🪟 Learning a little bit about C# and .NET
