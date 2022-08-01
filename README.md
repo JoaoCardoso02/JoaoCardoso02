@@ -1,6 +1,6 @@
 ### Howdy! 👋
 
-##### I'm João, based on Brazil.
+I'm João, based on Brazil.
 
 #### Biography
 
