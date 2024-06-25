@@ -5,18 +5,17 @@ I'm João, based on Brazil.
 #### Biography
 
 - 🏢 I'm currently working at [Tech6](https://tech6group.com/) 
-- 👨🏻‍🔬 A TypeScript lover
-- 🌱 MongoDB is, for me, the best database
-- 🪟 Learning a little bit about C# and .NET
+- 👨🏻‍🔬 A multi-language developer
 - 📖 Searching for some Open Source project to help
 - 📬 Send a mail for me: joaolucas.cardoso02@gmail.com
 
 
 #### I also develop using these languages
 
+- .NET
 - Nodejs
-- VueJS
 - React
+- VueJS
 - PHP
 - Laravel
 - Python
